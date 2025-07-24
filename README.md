@@ -20,3 +20,9 @@
 
 ### SC Crawler
 - [ChainWalker](https://github.com/0xsha/ChainWalker) - ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information. A small tool that can help us find contracts, extract the EVM code, and disassemble the opcodes. It allows us to select specific blocks or even specific contract balances.
+
+## SC Opcodes Interactive Reference
+- [evm.codes](https://www.evm.codes/) - An Ethereum Virtual Machine Opcodes Interactive Reference
+
+### Online Tools
+- [evm.codes - playground](https://www.evm.codes/playground) -  It is an interactive online tool for developers and enthusiasts to learn about and experiment with the Ethereum Virtual Machine (EVM).
