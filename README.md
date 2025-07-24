@@ -8,6 +8,9 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## Datasets
+You can access the datasets [here](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets?tab=readme-ov-file#vulnerability-based-dataset).
+
 ### SC Specialized Programming Languages
 * [Clarity](https://clarity-lang.org/) - Clarity brings smart contracts to Bitcoin. It is a decidable language, meaning you can know, with certainty, from the code itself what the program will do. Clarity is interpreted (not compiled) & the source code is published on the blockchain. Clarity gives developers a safe way to build complex smart contracts for the world's most secure blockchain.
 * [Solidity](https://soliditylang.org/) - A statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.
@@ -35,9 +38,13 @@
 ### Online Tools
 - [evm.codes - playground](https://www.evm.codes/playground) -  It is an interactive online tool for developers and enthusiasts to learn about and experiment with the Ethereum Virtual Machine (EVM).
 
-## Scientific Research
-- [Awesome Malicious Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract-scientific-research)
-- [Awesome Vulnerable Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research)
+## Other Awesome Smart Contract
+- [Awesome Malicious Smart Contract](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract)
+- [Awesome Smart Contract Feature Extractor](https://github.com/cybersecurity-dev/awesome-smartcontract-feature-extractor)
+- [Awesome Vulnerable Smart Contract](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract)
+- Scientific Research
+    - [Awesome Malicious Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract-scientific-research)
+    - [Awesome Vulnerable Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research)
 
 ## Useful Links
 - [An Ethereum Virtual Machine Opcodes Interactive Reference](https://www.evm.codes/)
