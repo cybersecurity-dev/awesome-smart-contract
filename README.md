@@ -14,3 +14,6 @@
 - [Solhint](https://github.com/protofire/solhint) - Solhint is an open-source project to provide a linting utility for Solidity code.
 - [Osiris](https://github.com/christoftorres/Osiris) - An analysis tool to detect integer bugs in Ethereum smart contracts.
 - [Oyente](https://github.com/enzymefinance/oyente) (_This project is not maintained anymore_) - An Analysis Tool for Smart Contracts
+
+### Reverse Engineering Tools
+- [LLM-Powered EVM Decompiler](https://www.evmdecompiler.com/) - Advanced EVM bytecode decompiler powered by Large Language Models.
