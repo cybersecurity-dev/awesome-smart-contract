@@ -8,9 +8,6 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-## Datasets
-You can access the datasets [here](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets?tab=readme-ov-file#vulnerability-based-dataset).
-
 ### SC Specialized Programming Languages
 * [Clarity](https://clarity-lang.org/) - Clarity brings smart contracts to Bitcoin. It is a decidable language, meaning you can know, with certainty, from the code itself what the program will do. Clarity is interpreted (not compiled) & the source code is published on the blockchain. Clarity gives developers a safe way to build complex smart contracts for the world's most secure blockchain.
 * [Solidity](https://soliditylang.org/) - A statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.
@@ -40,6 +37,7 @@ You can access the datasets [here](https://github.com/cybersecurity-dev/awesome-
 
 ## Other Awesome Smart Contract
 - [Awesome Malicious Smart Contract](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract)
+- [Awesome Smart Contract Datasets](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets?tab=readme-ov-file#vulnerability-based-dataset)
 - [Awesome Smart Contract Feature Extractor](https://github.com/cybersecurity-dev/awesome-smartcontract-feature-extractor)
 - [Awesome Vulnerable Smart Contract](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract)
 - Scientific Research
