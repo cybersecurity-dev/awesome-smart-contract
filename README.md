@@ -17,6 +17,13 @@
 
 ## 📖 Contents
 - [SC Specialized Programming Languages](#sc-specialized-programming-languages)
+- [Security Analysis Tools for SC](#security-analysis-tools-for-sc)
+- [Reverse Engineering Tools](#reverse-engineering-tools)
+- [SC Crawler](#sc-crawler)
+- [SC Opcodes Interactive Reference](#sc-opcodes-interactive-reference)
+- [Online Tools](#online-tools)
+- [Other Awesome Smart Contract](#other-awesome-smart-contract)
+- [Useful Links](#useful-links)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -48,7 +55,7 @@
 ### Online Tools
 - [evm.codes - playground](https://www.evm.codes/playground) -  It is an interactive online tool for developers and enthusiasts to learn about and experiment with the Ethereum Virtual Machine (EVM).
 
-## Other Awesome Smart Contract
+### Other Awesome Smart Contract
 - [Awesome Malicious Smart Contract](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract)
 - [Awesome Smart Contract Datasets](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets?tab=readme-ov-file#vulnerability-based-dataset)
 - [Awesome Smart Contract Feature Extractor](https://github.com/cybersecurity-dev/awesome-smartcontract-feature-extractor)
@@ -57,12 +64,13 @@
     - [Awesome Malicious Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract-scientific-research)
     - [Awesome Vulnerable Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research)
 
-## Useful Links
+### Useful Links
 - [An Ethereum Virtual Machine Opcodes Interactive Reference](https://www.evm.codes/)
 - [Ethereum Virtual Machine Opcodes](https://ethervm.io/)
 - [Opcodes for the EVM](https://ethereum.org/en/developers/docs/evm/opcodes/)
 
 ## 
+
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
