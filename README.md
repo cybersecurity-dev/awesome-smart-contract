@@ -1,4 +1,9 @@
 <div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/Smart_contract">
+         <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/sc.png" />
+        </a>
+    </p>
 
 # **`Awesome`** Smart Contract [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
